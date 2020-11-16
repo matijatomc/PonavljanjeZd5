@@ -1,0 +1,6 @@
+C:\Users\Matija\source\repos\tomcMatijaPonavljanjeZd5\tomcMatijaPonavljanjeZd5\bin\Debug\tomcMatijaPonavljanjeZd5.exe.config
+C:\Users\Matija\source\repos\tomcMatijaPonavljanjeZd5\tomcMatijaPonavljanjeZd5\bin\Debug\tomcMatijaPonavljanjeZd5.exe
+C:\Users\Matija\source\repos\tomcMatijaPonavljanjeZd5\tomcMatijaPonavljanjeZd5\bin\Debug\tomcMatijaPonavljanjeZd5.pdb
+C:\Users\Matija\source\repos\tomcMatijaPonavljanjeZd5\tomcMatijaPonavljanjeZd5\obj\Debug\tomcMatijaPonavljanjeZd5.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaPonavljanjeZd5\tomcMatijaPonavljanjeZd5\obj\Debug\tomcMatijaPonavljanjeZd5.exe
+C:\Users\Matija\source\repos\tomcMatijaPonavljanjeZd5\tomcMatijaPonavljanjeZd5\obj\Debug\tomcMatijaPonavljanjeZd5.pdb
